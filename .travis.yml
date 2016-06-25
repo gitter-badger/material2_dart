@@ -2,4 +2,5 @@ language: dart
 dart:
   - stable
   - dev
-  with_content_shell: true
+sudo: false
+with_content_shell: true
